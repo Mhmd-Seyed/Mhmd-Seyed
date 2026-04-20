@@ -40,17 +40,5 @@ I am a University Student and Software Developer focused on building intelligent
 
 
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
-
-
----
-
-
-
 
 - 📍 Based in Ankara, Turkey
