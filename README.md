@@ -41,4 +41,4 @@ I am a University Student and Software Developer focused on building intelligent
 
 
 
-- 📍 Based in Ankara, Turkey
+- 📍 Based in Konya, Turkey
